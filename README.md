@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rudra Narayan Mishra
-- 👀 I’m interested in developing data driven, scalable, modular and robust applications using Python and Artificial Intelligence.
-- 🌱 I’m currently learning various Deep Learning algorithms and DevOps tools like Kubernetes, Amazon AWS...
-- 💞️ I’m looking to collaborate on any Python based applications that can leverage my skills and also help me grow.
+- 👀 I’m interested in developing data driven, scalable, modular and robust applications using JAVA, Python and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on any JAVA or Python based applications that can leverage my skills and also help me grow.
 - 📫 You can reach me through my e-mail: `mishra.rudra.0309@gmail.com`
 
 <!---
